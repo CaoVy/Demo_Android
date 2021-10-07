@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="title_button">Button</string>
+    <string name="message_text">\tCristiano Ronaldo dường như là một bản hợp đồng mang lại \nlợi ích cho Premier League hơn là Manchester United. Sự trở lại của cậu ấy sẽ gây ra nhiều vấn đề cho CLB</string>
+    <string name="hint_enter">Enter data...</string>
+    <string name="time">Time: %s:%s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
